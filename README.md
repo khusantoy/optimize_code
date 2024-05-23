@@ -1,6 +1,7 @@
 # dars42_vazifa
 
 A new Flutter project.
+![Screenshot 2024-05-23 232915](https://github.com/khusantoy/optimize_code/assets/119614237/c19ce1a0-bbf7-4307-9ed2-85bf431682b9)
 
 ## Getting Started
 
